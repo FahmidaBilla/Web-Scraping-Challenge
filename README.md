@@ -11,7 +11,7 @@ This challenge is consisted of a full web-scraping and data analysis including t
 
 This task includes scraping the Mars news articles. The steps done are:
 
-    1. Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html). Inspect the page to identify which elements to scrape.
+    1. Use automated browsing to visit the Mars news site(https://static.bc-edx.com/data/web/mars_news/index.html). Inspect the page to identify which elements to scrape.
     2. Create a Beautiful Soup object and use it to extract text elements from the website.
     
     3. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
@@ -27,7 +27,7 @@ This task includes scraping the Mars news articles. The steps done are:
 
 This part includes scraping and analyzing Mars weather data and follows the steps below:
     
-    1. Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape.
+    1. Use automated browsing to visit the Mars Temperature Data Site(https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape.
     
    2. Create a Beautiful Soup object and use it to scrape the data in the HTML table.
    
